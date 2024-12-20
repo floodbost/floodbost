@@ -21,17 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
 
-![floodbost's GitHub stats](https://github-readme-stats.vercel.app/api?username=floodbost&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=floodbost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/yourtwitterprofile)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
